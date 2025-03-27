@@ -5,7 +5,7 @@ import "./index.css";
 function App() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-pink-100 text-gray-800">
-      <h1 className="text-4xl font-bold text-pink-600">BATIA'S BREADS</h1>
+      <h1 className="text-4xl font-bold text-pink-600">BATYA'S BREADS</h1>
       <p className="mt-2 text-lg text-gray-700">
         Fresh sourdough bread, baked with love!
       </p>
